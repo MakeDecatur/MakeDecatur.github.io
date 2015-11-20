@@ -4,4 +4,4 @@ description: Create. Invent. Learn.
 keywords: Modern, Blogging, Fun
 author: JGValeck, Wferr
 baseurl: "/home/" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "makedecatur.github.io" # the base hostname & protocol for your site
